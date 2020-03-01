@@ -1,0 +1,2 @@
+Aprire direttamente su MATLAB il progetto 
+'BatteryModel_Completo'
